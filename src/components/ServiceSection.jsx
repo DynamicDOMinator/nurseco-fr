@@ -185,7 +185,7 @@ function ServiceAndNurseSection() {
                 </div>
                 <div className="  absolute right-2 bottom-2">
                   <DownloadBtn
-                    url={`http://localhost:1337${nurse.CV[0]?.url}`}
+                    url={`https://nurceco.onrender.com${nurse.CV[0]?.url}`}
                   />
                 </div>
               </div>
